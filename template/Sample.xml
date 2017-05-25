@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Modules>
+	<module Name="User" Package="com.dr">
+		<Parameter Name="firstName" Type="String" />
+		<Parameter Name="lastName" Type="String" />
+		<Parameter Name="email" Type="String" />
+		<Parameter Name="password" Type="String" />
+	</module>
+</Modules>
