@@ -1,5 +1,6 @@
 # mac
 .DS_Store
+target/
 
 .idea/
 .dir-locals.el
