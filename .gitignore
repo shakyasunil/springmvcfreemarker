@@ -1,0 +1,21 @@
+# mac
+.DS_Store
+
+.idea/
+.dir-locals.el
+secrets/ft_cb_shared_private_key.pem
+secrets/ft_cb_shared_public_key.pem
+
+# terraform
+.terraform
+*.tfplan
+
+# ansible
+filter_plugins/__pycache__
+.vault_pass.txt
+.id_rsa
+
+# env files
+.env.local
+.ansible_venv
+filter_plugins/
